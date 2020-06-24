@@ -7,6 +7,6 @@ tags: [episode, site]
 
 More info coming soon!  Right now - here's the video!
 
-(Still updating the new website with the old info!)
+(Still updating the new website with the older info!)
 
 https://youtu.be/XdomEWWaOrw

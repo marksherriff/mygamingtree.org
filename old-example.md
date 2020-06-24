@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Episode 0 - What is a game?
+subtitle: What makes a game "a game?"
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---

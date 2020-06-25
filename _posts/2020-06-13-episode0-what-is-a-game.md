@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 0 - What is a game?
-subtitle: cool thing
+subtitle: The first episode!
 tags: [episode, site]
 ---
 

@@ -2,11 +2,9 @@
 layout: post
 title: Episode 0 - What is a game?
 subtitle: The first episode is here!
-tags: [episode, site]
+tags: [episodes]
 ---
 
-More info coming soon!  For now - here's the first episode!
+In this 0th episode of My Gaming Tree, I talk about what makes a "game" a "game!" 
 
-(Still updating the new website with the older info!)
-
-https://youtu.be/XdomEWWaOrw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XdomEWWaOrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

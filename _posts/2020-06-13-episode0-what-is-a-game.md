@@ -5,7 +5,7 @@ subtitle: The first episode is here!
 tags: [episode, site]
 ---
 
-More info coming soon!  For now - here's the episode!
+More info coming soon!  For now - here's the first episode!
 
 (Still updating the new website with the older info!)
 

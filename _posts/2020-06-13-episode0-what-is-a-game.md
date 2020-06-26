@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 0 - What is a game?
-subtitle: cool thing
+subtitle: "A game is the voluntary attempt at overcoming unnecessary obstacles." - Bernard Suits
 tags: [episode]
 ---
 

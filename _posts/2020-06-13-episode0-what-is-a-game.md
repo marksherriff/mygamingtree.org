@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 0 - What is a game?
-subtitle: A game is the voluntary attempt at overcoming unnecessary obstacles. - Bernard Suits
+subtitle: Goals, Rules, Feedback, and Participation
 tags: [episode]
 ---
 
@@ -19,5 +19,7 @@ Which brings us to the four main ingredients of a game:
 * Rules (how will the game limit your choices and actions)
 * Feedback (how do you know you are moving toward the goals)
 * Voluntary Participation (you agree to "play in this space")
+
+Slide Deck: [Episode 0 - What is a game?](https://docs.google.com/presentation/d/1JSGnLYSSD1hbaN-anjUMAvOzJn3C5U4hdaCROMOecZ8/edit?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XdomEWWaOrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
